@@ -6,7 +6,7 @@ Product Engineer
 
 A highly skilled developer with extensive experience in React, React Native, JavaScript, PHP (Non Framework, Laravel, Symfony, etc.), AWS Services, Python, ML, and blockchain technology. Focus on and proficient in building and deploying web and mobile applications; as well as experienced in leading development teams and technical architecture challenges.  
 
-* 🌍  I'm based in Jersey 
+* 🌍  I'm based in Jersey (UK, 1 hour from London)
 * ✉️  You can contact me at [email@danielmullin.com](mailto:email@danielmullin.com) 
 * 🚀  I'm currently working on [Strikey!](http://strikey.app) 
 * 🧠  I'm learning Architect in the context of Remix 
