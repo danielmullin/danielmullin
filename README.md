@@ -8,7 +8,7 @@ A highly skilled developer with extensive experience in React, React Native, Jav
 
 * 🌍  I'm based in Jersey (UK, 1 hour from London)
 * ✉️  You can contact me at [email@danielmullin.com](mailto:email@danielmullin.com) 
-* 🚀  I'm currently working on [inshore/bookwhen]([http://strikey.app](https://github.com/inshore/bookwhen)) 
+* 🚀  I'm currently working on [inshore/bookwhen](https://github.com/inshore/bookwhen)
 * 🧠  I'm learning Architect in the context of Remix 
 * 🤝  I'm open to collaborating on Surprise me!
 
