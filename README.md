@@ -9,7 +9,7 @@ A highly skilled developer with extensive experience in React, React Native, Jav
 * 🌍  I'm based in Jersey (UK, 1 hour from London)
 * ✉️  You can contact me at [email@danielmullin.com](mailto:email@danielmullin.com) 
 * 🚀  I'm currently working on [inshore/bookwhen](https://github.com/inshore/bookwhen)
-* 🧠  I'm learning Architect in the context of Remix 
+* 🧠  I'm learning Go
 * 🤝  I'm open to collaborating on Surprise me!
 
 <a href="https://bookwhen.com/inshore" title="Book online"><img src="https://d1abtw6bgq2xi2.cloudfront.net/images/bookonline_button.png" alt="Book online" style="width:105px;height:22px;" /></a>
